@@ -1,0 +1,19 @@
+{
+  "name": "cpo2---callan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaTmAnOmOrE/CPO2---callan.git"
+  },
+  "author": "callan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BaTmAnOmOrE/CPO2---callan/issues"
+  },
+  "homepage": "https://github.com/BaTmAnOmOrE/CPO2---callan#readme"
+}
